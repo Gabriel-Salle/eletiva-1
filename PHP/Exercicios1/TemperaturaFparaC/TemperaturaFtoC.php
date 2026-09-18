@@ -6,9 +6,9 @@
     <title>Temperatura</title>
 </head>
 <body>
-    <form method="post" action ="RespostaTemperaturaCToF.php">
-        <label for="tempc">Informe o Valor em Graus</label>
-        <input type="nuber" id="tempc" name="tempc">
+    <form method="post" action ="RespostaTemperaturaFToC.php">
+        <label for="tempc">Informe o Valor em Fahrenheit</label>
+        <input type="nuber" id="tempf" name="tempf">
         <button type="subbmit">Enviar</button>
 </body>
 </html>
